@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-03-09T20:00:21 IST" name="Default suite" finished-at="2020-03-09T20:00:35 IST" duration-ms="14459">
+  <suite started-at="2020-03-10T20:14:22 IST" name="Default suite" finished-at="2020-03-10T20:14:38 IST" duration-ms="16035">
     <groups>
     </groups>
-    <test started-at="2020-03-09T20:00:21 IST" name="Default test" finished-at="2020-03-09T20:00:35 IST" duration-ms="14459">
-      <class name="seleniumSessions.DragAndDropFrameHandling">
-        <test-method signature="dragDropFrameHandling()[pri:0, instance:seleniumSessions.DragAndDropFrameHandling@2cbb3d47]" started-at="2020-03-09T20:00:21 IST" name="dragDropFrameHandling" finished-at="2020-03-09T20:00:35 IST" duration-ms="14383" status="PASS">
+    <test started-at="2020-03-10T20:14:22 IST" name="Default test" finished-at="2020-03-10T20:14:38 IST" duration-ms="16035">
+      <class name="seleniumSessions.PopupHandling">
+        <test-method signature="popupHandling()[pri:0, instance:seleniumSessions.PopupHandling@2cbb3d47]" started-at="2020-03-10T20:14:22 IST" name="popupHandling" finished-at="2020-03-10T20:14:38 IST" duration-ms="15970" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dragDropFrameHandling -->
-      </class> <!-- seleniumSessions.DragAndDropFrameHandling -->
+        </test-method> <!-- popupHandling -->
+      </class> <!-- seleniumSessions.PopupHandling -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
