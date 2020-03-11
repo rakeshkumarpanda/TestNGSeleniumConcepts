@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="seleniumSessions.DragAndDropFrameHandling">
+      <class name="seleniumSessions.MouseHoverWindowHandling">
         <methods>
-          <include name="dragDropFrameHandling"/>
+          <include name="mouseHoverWindowHandling"/>
         </methods>
-      </class> <!-- seleniumSessions.DragAndDropFrameHandling -->
+      </class> <!-- seleniumSessions.MouseHoverWindowHandling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
