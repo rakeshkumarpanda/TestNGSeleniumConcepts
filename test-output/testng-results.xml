@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-03-11T19:56:42 IST" name="Default suite" finished-at="2020-03-11T19:57:08 IST" duration-ms="26201">
+  <suite started-at="2020-03-12T19:34:44 IST" name="Default suite" finished-at="2020-03-12T19:34:45 IST" duration-ms="1340">
     <groups>
     </groups>
-    <test started-at="2020-03-11T19:56:42 IST" name="Default test" finished-at="2020-03-11T19:57:08 IST" duration-ms="26201">
-      <class name="seleniumSessions.MouseHoverWindowHandling">
-        <test-method signature="mouseHoverWindowHandling()[pri:0, instance:seleniumSessions.MouseHoverWindowHandling@2cbb3d47]" started-at="2020-03-11T19:56:42 IST" name="mouseHoverWindowHandling" finished-at="2020-03-11T19:57:08 IST" duration-ms="26117" status="PASS">
+    <test started-at="2020-03-12T19:34:44 IST" name="Default test" finished-at="2020-03-12T19:34:45 IST" duration-ms="1340">
+      <class name="seleniumSessions.ExcelReadWrite">
+        <test-method signature="excelReadWrite()[pri:0, instance:seleniumSessions.ExcelReadWrite@1198b989]" started-at="2020-03-12T19:34:44 IST" name="excelReadWrite" finished-at="2020-03-12T19:34:45 IST" duration-ms="1251" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- mouseHoverWindowHandling -->
-      </class> <!-- seleniumSessions.MouseHoverWindowHandling -->
+        </test-method> <!-- excelReadWrite -->
+      </class> <!-- seleniumSessions.ExcelReadWrite -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
